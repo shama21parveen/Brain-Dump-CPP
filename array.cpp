@@ -26,6 +26,7 @@ void printArray(vector<vector<int>> & arr){
             cout<<arr[i][j]<<" ";
         }
         cout<<endl;
+    
     }
 }
 int main(){
